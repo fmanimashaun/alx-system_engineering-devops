@@ -10,8 +10,9 @@
 1.Display the contents list of your current directory.
           
    **Example:**
+   
               ```$ ./1-listit
-                  Applications    Documents   Dropbox Movies Pictures
-                  Desktop Downloads   Library Music Public
+                    Applications    Documents   Dropbox Movies Pictures
+                    Desktop Downloads   Library Music Public
                  $```
 
